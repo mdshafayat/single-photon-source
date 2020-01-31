@@ -1,0 +1,20 @@
+As the codes are writen in Python, you need to install the following things to run the simulations:
+
+(The simulations are done on windows 8 pc)
+
+1. Python 2.7
+2. Numpy
+3. Scipy
+4. Matplotlib
+5. Gcc Compiler
+6. QuTiP 3.1.0
+
+
+** You can get 1-5 in Pythonxy for windows
+
+
+# Run single_photon_1 for getting the verification for the single photon source and detailed system dynamics
+
+# Run single_photon_2 for getting the state tomography and mapping of state from qubit state to photon state
+
+** Codes are appropriately commented
